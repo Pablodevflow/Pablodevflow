@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hello World 👋
 
-<!--
-**Pablodevflow/Pablodevflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Systems Analysis and Development (ADS)**
+  
+- 👀 I’m interested in technology, software development and learning new tools
 
-Here are some ideas to get you started:
+- 💬 Ask me about **my learning journey and studies**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- ### 📱 How to contact me  : 
+
+<a href="https://www.instagram.com/pablobrayan_?igsh=ZzN2d2s5ZmszM3pq">
+  <img src="https://skillicons.dev/icons?i=instagram" height="48"/>
+</a>
+<a href="https://www.linkedin.com/in/pablobrayan2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+<a href="mailto:pablobrayanoliveira@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
+  
