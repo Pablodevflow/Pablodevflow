@@ -1,4 +1,4 @@
-## Hello World 👋
+<h2 align="center"> Hello World 👨🏻‍💻 </h2>
 
 - 🌱 I’m currently learning **Systems Analysis and Development (ADS)**
   
@@ -18,4 +18,8 @@
 <a href="mailto:pablobrayanoliveira@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
-  
+
+  ---
+
+![ADS](https://img.shields.io/badge/ADS-000000?style=for-the-badge&logo=graduation-cap&logoColor=8e2de2)
+![Student](https://img.shields.io/badge/Student-8e2de2?style=for-the-badge&logo=github&logoColor=white)
