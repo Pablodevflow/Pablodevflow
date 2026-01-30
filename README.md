@@ -23,3 +23,5 @@
 
 ![ADS](https://img.shields.io/badge/ADS-000000?style=for-the-badge&logo=graduation-cap&logoColor=8e2de2)
 ![Student](https://img.shields.io/badge/Student-8e2de2?style=for-the-badge&logo=github&logoColor=white)
+
+![Dark Souls](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
