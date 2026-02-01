@@ -24,5 +24,3 @@
 ![ADS](https://img.shields.io/badge/ADS-000000?style=for-the-badge&logo=graduation-cap&logoColor=8e2de2)
 ![Student](https://img.shields.io/badge/Student-8e2de2?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="https://tenor.com/73Oj.gif" width="400"/>
-
